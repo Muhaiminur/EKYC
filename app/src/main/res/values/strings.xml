@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Wave Money Demo App</string>
+    <string name="phonehint_string">Enter Phone Number</string>
+    <string name="phonehint2_string">Receiver’s Phone number</string>
+    <string name="amount_string">Amount of Money</string>
+    <string name="otphint_string">Enter OTP</string>
+    <string name="submit_string">Submit</string>
+    <string name="submitfront_string">Submit FRONT NRC</string>
+    <string name="submitback_string">Submit BACK NRC</string>
+
+    <string name="confirm_string">Confirm</string>
+    <string name="exit_tittle_string">Do you want to Exit?</string>
+    <string name="ok_string">OK</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="no">No</string>
+    <string name="no_internet">Please Connect To Internet</string>
+    <string name="wait_string">Loading</string>
+    <string name="something_went_wrong">Can Not Connect With Server</string>
+
+    <string name="nrcidhint_string">Enter NRC id</string>
+    <string name="nrcinfo_string">NRC Information</string>
+    <string name="namehint_string">Enter Full Name</string>
+    <string name="dobhint_string">Enter Date of Birth</string>
+    <string name="fathint_string">Enter Father Name</string>
+    <string name="nrcidhintbr_string">NRC id ထည့်ပါ</string>
+    <string name="namehintbr_string">နာမည်အပြည့်အစုံထည့်ပါ</string>
+    <string name="dobhintbr_string">မွေးသက္ကရာဇ်ထည့်ပါ</string>
+    <string name="fathintbr_string">ဖခင်အမည်ထည့်ပါ</string>
+
+
+    <string name="submit_second_string">Submit Front NRC</string>
+    <string name="submit_first_string">Submit Selfie</string>
+    <string name="send_string">Send Money</string>
+    <string name="rcv_string">Receive Money</string>
+    <string name="info_string">Information</string>
+    <string name="title_activity_splash_page">SplashPage</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="login_string">Login</string>
+    <string name="reg_string">Register</string>
+    <string name="Welcome">welcome</string>
+
+    <string name="enterotp_string">Enter Your OTP</string>
+    <string name="verify_string">Verify</string>
+    <string name="otphint2_string">You will get OTP via phone number</string>
+
+    <string name="uploadfront_string">Upload Image Front</string>
+    <string name="uploadback_string">Upload Image Back</string>
+    <string name="next_string">Next</string>
+
+
+    <string name="selfi_string">Take a Selfi</string>
+    <string name="tnc_string">Agree with terms &amp; Condition</string>
+    <string name="selfihint_string">we use your selfie to compare with your NRC photo</string>
+    <string name="continue_string">Continue</string>
+</resources>

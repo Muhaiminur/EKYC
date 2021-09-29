@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/bg_drop_shadow.xml" value="0.1125" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/ic_default.xml" value="0.1125" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/ic_loading.xml" value="0.1125" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/ic_upload.xml" value="0.1125" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/ic_uploaded.xml" value="0.14814814814814814" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/rectangular_ash.xml" value="0.1125" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/rectangular_ash_border_white.xml" value="0.1125" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/rectangular_blue.xml" value="0.12129629629629629" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/rectangular_red.xml" value="0.1125" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/drawable/rectangular_yellow_border_white.xml" value="0.1125" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/layout/abs_layout.xml" value="0.1111111111111111" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/layout/activity_dashboared_page.xml" value="0.1" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/layout/activity_main.xml" value="0.2442528735632184" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/layout/activity_nrceditpage.xml" value="0.25" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/layout/activity_sendmoney_page.xml" value="0.2" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/layout/activity_splash_page.xml" value="0.1111111111111111" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/layout/dialog_success.xml" value="0.2442528735632184" />
+        <entry key="..\:/OFFICE/EKYC/app/src/main/res/layout/dialog_toast.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

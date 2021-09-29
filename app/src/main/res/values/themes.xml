@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EKYC" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/app_yellow2</item>
+        <item name="colorPrimaryVariant">@color/app_yellow1</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/app_yellow2</item>
+        <item name="colorSecondaryVariant">@color/app_yellow1</item>
+        <item name="colorOnSecondary">@color/app_black1</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/black</item>
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/app_red1</item>
+        <item name="android:textColorPrimary">@color/app_red1</item>
+        <item name="textBackground">@color/white</item>
+        <item name="backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/app_red1</item>
+        <item name="android:background">@color/app_white1</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Themefull" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/app_yellow2</item>
+        <item name="colorPrimaryVariant">@color/app_yellow1</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/app_yellow2</item>
+        <item name="colorSecondaryVariant">@color/app_yellow1</item>
+        <item name="colorOnSecondary">@color/app_black1</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorControlNormal">@color/colorOnPrimary</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+        <item name="android:windowIsTranslucent">true</item>
+
+    </style>
+
+    <style name="ThemeOverlay.EKYC.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
+        <item name="fullscreenTextColor">@color/light_blue_A200</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style>
+</resources>

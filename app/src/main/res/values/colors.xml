@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+
+    <!-- app color -->
+
+    <color name="app_ash1">#708090</color>
+    <color name="app_ash2">#2F4F4F</color>
+    <color name="app_ash3">#E5E5E5</color>
+    <color name="app_ash4">#5E5E5E</color>
+    <color name="app_black1">#0C0C0C</color>
+    <color name="app_black2">#000000</color>
+
+    <color name="colorPrimaryDark">@color/app_yellow1</color>
+    <color name="colorPrimary">@color/app_black1</color>
+    <color name="colorOnPrimary">@color/app_red1</color>
+    <color name="colorAccent">@color/app_red2</color>
+    <color name="colorSurface">#ffffff</color>
+    <color name="colorBackgound">#f4f4f4</color>
+
+    <color name="colorGrayBattonSurface">#E0E0E0</color>
+    <color name="colorGrayButtonTextColor">#626262</color>
+    <color name="colorRed">#EF4236</color>
+    <color name="colorGreen">#00C853</color>
+    <color name="colorBlue1">#105EFA</color>
+    <color name="colorGrayText">#626262</color>
+    <color name="app_blue2">#041E38</color>
+    <color name="app_red1">#9D081B</color>
+    <color name="app_red2">#E60713</color>
+    <color name="app_red3">#9D081B</color>
+    <color name="app_white1">#fafafa</color>
+    <color name="app_white2">#ffffff</color>
+    <color name="app_white3">#ebebeb</color>
+    <color name="app_white4">#F9F9F9</color>
+    <color name="app_white5">#C4C4C4</color>
+    <color name="colorYellow">#F6BF26</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="app_yellow1">#DAC200</color>
+    <color name="app_yellow2">#FFE512</color>
+    <color name="app_blue1">#1E9BC4</color>
+    <color name="app_hint1">#979797</color>
+</resources>
